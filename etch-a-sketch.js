@@ -1,5 +1,3 @@
-//Testing an example from stack overflow idea, previous idea was failing
-
 //Declearing these values that will connect with their respective HTML id
 const container = document.getElementById("container");
 const clearBtn = document.getElementById("clearBtn")
